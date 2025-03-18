@@ -1,0 +1,59 @@
+SET II  (Using the same tables as Assignment 2)
+
+1. Retrieve a list of MANAGERS. 
+2. Find out the names and salaries of all employees earning more than 1000 per 
+month. 
+3. Display the names and salaries of all employees except JAMES. 
+4. Find out the details of employees whose names begin with ‘S’. 
+5. Find out the names of all employees that have ‘A’ anywhere in their name. 
+6. Find out the names of all employees that have ‘L’ as their third character in 
+their name. 
+7. Compute daily salary of JONES. 
+8. Calculate the total monthly salary of all employees. 
+9. Print the average annual salary . 
+10. Select the name, job, salary, department number of all employees except 
+SALESMAN from department number 30. 
+
+
+SELECT * FROM EMP
+
+SELECT * FROM DEPT
+
+
+--1
+SELECT ename 'Managers' FROM EMP 
+WHERE job = 'MANAGER'
+
+--2
+SELECT ename 'Name', sal 'Salary' FROM EMP
+WHERE sal > 1000
+
+--3
+SELECT ename 'Name', sal 'Salary' FROM EMP
+WHERE ename <> 'JAMES'
+
+--4
+SELECT * FROM EMP
+WHERE ename LIKE 'S%'
+
+--5
+SELECT * FROM EMP
+WHERE ename LIKE '%A%'
+
+--6
+SELECT * FROM EMP
+WHERE ename LIKE '__L%'
+
+--7
+SELECT ename 'Name', (sal/30) 'Daily Salary' FROM EMP
+WHERE ename = 'JONES'
+
+--8
+SELECT SUM(sal) 'Total Monthly Salary' FROM EMP
+
+--9
+SELECT AVG(sal*12) 'Average Anual Salary' FROM EMP 
+
+--10
+SELECT ename 'Name', job, sal 'Salary', deptno FROM EMP 
+WHERE job <> 'SALESMAN' AND deptno <> 30

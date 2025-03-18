@@ -75,6 +75,12 @@ WHERE sal BETWEEN 1200 AND 1400
 
 --4
 SELECT ename 'Name', sal AS original, (sal*1.10) AS payrise FROM EMP 
+JOIN DEPT ON DEPT.deptno = EMP.deptno
+WHERE DEPT.dname = 'RESEARCH'
+
+
+--without join
+SELECT ename 'Name', sal AS original, (sal*1.10) AS payrise FROM EMP 
 WHERE deptno = 20
 
 --5
@@ -109,7 +115,7 @@ ORDER BY ename
 
 --10
 SELECT DEPT.deptno 'Dept ID', dname 'Name', SUM(EMP.sal) AS Total FROM DEPT 
-JOIN EMP ON DEPT.deptno = EMP.deptno
+LEFT JOIN EMP ON DEPT.deptno = EMP.deptno
 GROUP BY dname, DEPT.deptno 
 
 --11
@@ -128,6 +134,10 @@ SELECT ename 'Name', sal 'Salary' FROM EMP
 WHERE sal NOT BETWEEN 1500 AND 2850
 
 --15
+SELECT mgrid, count(empno) 'Count' FROM EMP
+GROUP BY mgrid
+HAVING count(empno) > 2
+--if we need the name
 SELECT M.ENAME AS 'Name', COUNT(E.EMPNO) AS 'Total employee'
 FROM EMP E
 JOIN EMP M ON E.Mgrid = M.EMPNO
