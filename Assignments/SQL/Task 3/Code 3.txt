@@ -1,0 +1,69 @@
+SELECT * FROM Students
+SELECT * FROM Teacher
+SELECT * FROM Courses
+SELECT * FROM Enrollments
+SELECT * FROM Payments
+
+--total payment made by a specific student
+SELECT SUM(amount) AS Total_Payment FROM Students 
+JOIN Payments ON Students.student_id = Payments.student_id
+WHERE Students.student_id = 3
+
+--retrieve a list of courses with the count of students enrolled in each 
+SELECT Courses.course_name, COUNT(Enrollments.student_id) AS Count_of_students FROM Courses
+JOIN Enrollments ON Courses.course_id = Enrollments.course_id
+GROUP BY Courses.course_name 
+
+--students without enrollments
+SELECT Students.first_name, Students.last_name FROM Students
+LEFT JOIN Enrollments ON Students.student_id = Enrollments.student_id
+WHERE Enrollments.student_id IS NULL  --every student has a course so the table is empty
+
+--student names and the courses they are enrolled in
+SELECT Students.first_name, Students.last_name,Courses.course_name
+FROM Students
+JOIN Enrollments ON Students.student_id = Enrollments.student_id
+JOIN Courses ON Enrollments.course_id = Courses.course_id
+
+-- tried concatenate to display the names together
+SELECT (Students.first_name + ' ' + Students.last_name) AS Name,Courses.course_name
+FROM Students
+JOIN Enrollments ON Students.student_id = Enrollments.student_id
+JOIN Courses ON Enrollments.course_id = Courses.course_id
+
+--list the name of teachers and courses they are assigned
+SELECT (Teacher.first_name + ' ' + Teacher.last_name) AS Name, course_name
+FROM Teacher
+LEFT JOIN Courses ON Teacher.teacher_id = Courses.teacher_id 
+--used left join to display all teacher even if they dont have a course
+
+--list of students and enrollment date for a course
+SELECT (Students.first_name + ' ' + Students.last_name) AS Name, Courses.course_name, Enrollments.enrollment_date
+FROM Students
+JOIN Enrollments ON Students.student_id = Enrollments.student_id
+JOIN Courses ON Enrollments.course_id = Courses.course_id
+
+--list of students who has made no payment
+SELECT (Students.first_name + ' ' + Students.last_name) AS Name
+FROM Students
+LEFT JOIN Payments ON Students.student_id = Payments.student_id 
+WHERE Payments.student_id IS NULL
+--shows no name since all 10 students have made payments
+
+--courses with no enrollments
+SELECT Courses.course_name FROM Courses
+LEFT JOIN Enrollments ON Courses.course_id = Enrollments.course_id 
+WHERE Enrollments.enrollment_id IS NULL
+
+--students enrolled in more than one course
+SELECT Enrollments.student_id, Students.first_name, Students.last_name
+FROM Students
+JOIN Enrollments ON Students.student_id = Enrollments.student_id
+GROUP BY Enrollments.student_id, Students.first_name, Students.last_name 
+HAVING COUNT(Enrollments.course_id) > 1 
+--no value is returned since every student has only one course
+
+--teacher with no assigned courses
+SELECT (Teacher.first_name + ' ' + Teacher.last_name) AS Staff_Name FROM Teacher
+LEFT JOIN Courses ON Teacher.teacher_id = Courses.teacher_id
+WHERE Courses.teacher_id IS NULL
