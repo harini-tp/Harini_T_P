@@ -1,0 +1,124 @@
+
+--creating the database
+
+CREATE DATABASE SISDB
+
+
+--creating the entities and attributes
+
+CREATE TABLE Students
+(
+student_id INT PRIMARY KEY,
+first_name VARCHAR(20),
+last_name VARCHAR(20),
+date_of_birth DATE,
+email VARCHAR(20),
+phone_number VARCHAR(11)
+)
+
+CREATE TABLE Teacher
+(
+teacher_id INT PRIMARY KEY,
+first_name VARCHAR(20),
+last_name VARCHAR(20),
+email VARCHAR(20)
+)
+
+CREATE TABLE Courses
+(
+course_id INT PRIMARY KEY,
+course_name VARCHAR(25),
+credits INT,
+teacher_id INT,
+FOREIGN KEY(teacher_id) REFERENCES Teacher(teacher_id)
+)
+
+CREATE TABLE Enrollments
+(
+enrollment_id INT PRIMARY KEY,
+student_id INT,
+course_id INT,
+enrollment_date DATE,
+FOREIGN KEY(student_id) REFERENCES Students(student_id),
+FOREIGN KEY(course_id) REFERENCES Courses(course_id)
+)
+
+CREATE TABLE Payments
+(
+payment_id INT PRIMARY KEY,
+student_id INT,
+amount INT,
+payment_date DATE,
+FOREIGN KEY(student_id) REFERENCES Students(student_id)
+)
+
+
+--populating the attributes with values
+
+INSERT INTO Students (student_id, first_name, last_name, date_of_birth, email, phone_number) VALUES
+(1, 'Lewis', 'Hamilton', '2003-01-07', 'lewis@gmail.com', '1234567890'),
+(2, 'Max', 'Verstappen', '2002-09-30', 'max@gmail.com', '9876543210'),
+(3, 'Charles', 'Leclerc', '2003-10-16', 'charles@gmail.com', '1122334455'),
+(4, 'Lando', 'Norris', '2004-11-13', 'lando@gmail.com', '2233445566'),
+(5, 'Marta', 'Garcia', '2003-08-09', 'marta@gmail.com', '3344556677'),
+(6, 'Sophia', 'Floersch', '2002-12-01', 'sophia@gmail.com', '4455667788'),
+(7, 'George', 'Russell', '2002-02-15', 'george@gmail.com', '5566778899'),
+(8, 'Abbi', 'Pulling', '2003-03-21', 'abbi@gmail.com', '6677889900'),
+(9, 'Jessica', 'Edgar', '2004-05-12', 'jessica@gmail.com', '7788990011'),
+(10, 'Sergio', 'Perez', '2002-01-26', 'sergio@gmail.com', '8899001122');
+
+INSERT INTO Teacher (teacher_id, first_name, last_name, email) VALUES
+(1, 'Toto', 'Wolff', 'toto@gmail.com'),
+(2, 'Christian', 'Horner', 'christian@gmail.com'),
+(3, 'Frederic', 'Vasseur', 'frederic@gmail.com'),
+(4, 'Andrea', 'Stella', 'andrea@gmail.com'),
+(5, 'Mike', 'Krack', 'mike@gmail.com'),
+(6, 'Guenther', 'Steiner', 'guenther@gmail.com'),
+(7, 'Otmar', 'Szafnauer', 'otmar@gmail.com'),
+(8, 'James', 'Vowles', 'james@gmail.com'),
+(9, 'Laurent', 'Mekies', 'laurent@gmail.com'),
+(10, 'Franz', 'Tost', 'franz@gmail.com');
+
+INSERT INTO Courses (course_id, course_name, credits, teacher_id) VALUES
+(1, 'Formula 1', 10, 1),
+(2, 'Formula 2', 8, 2),
+(3, 'Formula 3', 6, 3),
+(4, 'F1 Academy', 7, 4),
+(5, 'Karting', 5, 5),
+(6, 'Sim Racing', 4, 6),
+(7, 'Rally Racing', 6, 7),
+(8, 'GT Racing', 7, 8),
+(9, 'Drag Racing', 5, 9),
+(10, 'Hill Climb', 4, 10);
+
+INSERT INTO Enrollments (enrollment_id, student_id, course_id, enrollment_date) VALUES
+(1, 1, 1, '2022-03-18'),
+(2, 2, 1, '2021-03-15'),
+(3, 3, 1, '2022-03-25'),
+(4, 4, 2, '2023-04-16'),
+(5, 5, 4, '2023-06-10'),
+(6, 6, 4, '2021-03-18'),
+(7, 7, 2, '2023-04-14'),
+(8, 8, 4, '2022-07-05'),
+(9, 9, 3, '2023-04-17'),
+(10, 10, 1, '2021-03-27');
+
+INSERT INTO Payments (payment_id, student_id, amount, payment_date) VALUES
+(1, 1, 5000000, '2023-11-20'),
+(2, 2, 6000000, '2023-11-21'),
+(3, 3, 3000000, '2023-11-22'),
+(4, 4, 2000000, '2023-11-23'),
+(5, 5, 1000000, '2023-11-24'),
+(6, 6, 4500000, '2023-11-25'),
+(7, 7, 2500000, '2023-11-26'),
+(8, 8, 3500000, '2023-11-27'),
+(9, 9, 4000000, '2023-11-28'),
+(10, 10, 5500000, '2023-11-29');
+
+
+
+SELECT * FROM Students
+SELECT * FROM Teacher
+SELECT * FROM Courses
+SELECT * FROM Enrollments
+SELECT * FROM Payments 
