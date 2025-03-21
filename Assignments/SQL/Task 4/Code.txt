@@ -42,16 +42,13 @@ WHERE student_id =
 
 --courses with maximum no of enrollments
 
-SELECT course_name 'Max Enrollment in' FROM Courses
-WHERE course_id =
-                (
-					SELECT TOP 1 course_id FROM
-					(
-						SELECT course_id, COUNT(course_id) 'Counts' FROM Enrollments
-						GROUP BY course_id
-					) AS [Max enrollment]
-				)
-
+SELECT TOP 1 course_name 'Max Enrollment in' FROM Courses
+JOIN(
+	SELECT course_id, COUNT(course_id) 'Counts' FROM Enrollments
+	GROUP BY course_id
+	) AS [Max enrollment]
+	ON Courses.course_id = [Max enrollment].course_id 
+ORDER BY Counts DESC
 
 
 

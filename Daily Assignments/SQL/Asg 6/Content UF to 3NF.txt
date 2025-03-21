@@ -1,0 +1,58 @@
+Table 1
+              
+clientno    cname    propertyno      address              rents start      rent finish    rent   ownerno     rentoname
+
+CR76        john       PG4          Lawrence, Glasgow      1 Jul 00        1 Aug 01        350      CO40           Tina
+                       PG16         Novar, Glasgow         1 Sep 02        1 Sep 02        450      CO93           Tony
+
+CR56        Aline      PG4           Lawrence,Glasgow      1 Sep 99        10 Jun 00       350      CO40           Tina
+                       PG36          Manor,Glasgow         1 Oct 00        1 Dec 01        370      CO93           Tony
+                       PG16          Novar, Glasgow        1 Nov 02        1 Aug 3         450      CO93           Tony
+
+
+1NF
+
+PK                   PK
+clientno    cname    propertyno    address              rent start    rent finish    rent    ownerno    rentoname
+
+CR76        John     PG4           Lawrence, Glasgow    1 Jul 00      1 Aug 01       350     CO40       Tina
+
+CR76        John     PG16          Novar, Glasgow       1 Sep 02      1 Sep 02       450     CO93       Tony
+
+CR56        Aline    PG4           Lawrence, Glasgow    1 Sep 99      10 Jun 00      350     CO40       Tina
+
+CR56        Aline    PG36          Manor, Glasgow       1 Oct 00      1 Dec 01       370     CO93       Tony
+
+CR56        Aline    PG16          Novar, Glasgow       1 Nov 02      1 Aug 03       450     CO93       Tony
+
+
+cname : cno   [no relation to property no]
+add, rent, ownerno, oname : property no   [bot no relation to cno]
+
+2NF
+
+Client table : client no[PK], cname
+
+Property table : Propertyno[PK], address, rent, ownerno, oname
+
+Rental Table : client no[PK], Property no[PK], rent start, rent finish
+
+
+owner name accesed only by owner no 
+has no link to propertyno
+
+
+3NF
+
+owner table : ownerno[PK], owner name
+
+
+FINAL TABLES
+
+Client table : client no[PK], client name
+
+Property table : Property no[PK], address, rent, owner no, Owner name
+
+Rental Table : client no[PK], Property no[PK], rent start, rent finish
+
+owner table : owner no[PK], owner name
