@@ -11,7 +11,7 @@ SELECT * FROM Payments
 
 
 
---average number of students in each course
+--1 average number of students in each course
 
 SELECT AVG(counts) 'Average' FROM
                    (
@@ -24,7 +24,7 @@ SELECT AVG(counts) 'Average' FROM
 
 
 
---student with the highest payment
+--2 student with the highest payment
 
 SELECT * FROM Students
 WHERE student_id =
@@ -40,7 +40,7 @@ WHERE student_id =
 
 
 
---courses with maximum no of enrollments
+--3 courses with maximum no of enrollments
 
 SELECT TOP 1 course_name 'Max Enrollment in' FROM Courses
 JOIN(
@@ -52,7 +52,10 @@ ORDER BY Counts DESC
 
 
 
---total payment made to courses taught by each teacher
+
+
+
+--4 total payment made to courses taught by each teacher
 
 SELECT first_name + ' ' + last_name AS 'Name', 
     (	
@@ -69,7 +72,9 @@ FROM Teacher
 
 
 
---students who enrolled in all available courses
+
+
+--5 students who enrolled in all available courses
 
 SELECT (first_name + ' ' + last_name) 'Name' FROM Students 
 WHERE student_id = 
@@ -89,7 +94,9 @@ WHERE student_id =
 
 
 
---names of teacher who have not been assigned to any course
+
+
+--6 names of teacher who have not been assigned to any course
 
 SELECT (first_name + ' ' + last_name) 'Name' FROM Teacher
 WHERE teacher_id NOT IN
@@ -99,7 +106,10 @@ WHERE teacher_id NOT IN
 
 
 
---Average age of all student
+
+
+
+--7 Average age of all student
 
 SELECT AVG(Age) 'Average age' FROM
 				(
@@ -109,7 +119,10 @@ SELECT AVG(Age) 'Average age' FROM
 
 
 
---course with no enrollment
+
+
+
+--8 course with no enrollment
 
 SELECT course_name 'No Enrollments in' FROM Courses
 WHERE course_id NOT IN 
@@ -120,7 +133,10 @@ WHERE course_id NOT IN
 
 
 
---total payment in each course by each student
+
+
+
+--9 total payment in each course by each student
 
 SELECT 
     (
@@ -139,7 +155,10 @@ FROM Enrollments
 
 
 
---students who made more than one payment
+
+
+
+--10 students who made more than one payment
 
 SELECT (first_name + ' ' + last_name) 'Name' FROM Students
 WHERE student_id = 
@@ -155,7 +174,10 @@ WHERE student_id =
 
 
 
---total payment made by each student
+
+
+
+--11 total payment made by each student
 
 SELECT (first_name + ' ' + last_name) 'Name', SUM(amount) 'Toatal Payment' FROM Students
 JOIN Payments ON Students.student_id = Payments.student_id
@@ -163,7 +185,9 @@ GROUP BY Students.first_name, Students.last_name
 
 
 
---list of course names with count of students enrolled in each
+
+
+--12 list of course names with count of students enrolled in each
 
 SELECT course_name 'Course name', COUNT(student_id) 'Number of Enrollment' FROM Courses
 LEFT JOIN Enrollments ON Courses.course_id = Enrollments.course_id
@@ -172,7 +196,10 @@ ORDER BY 'Number of Enrollment' DESC
 
 
 
---average payments made by students
+
+
+
+--13 average payments made by students
 
 SELECT (first_name + ' ' + last_name) 'Name', AVG(amount) 'Average Payment' FROM Students
 JOIN Payments ON Students.student_id = Payments.student_id

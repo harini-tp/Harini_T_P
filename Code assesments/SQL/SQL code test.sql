@@ -69,10 +69,16 @@ SELECT * FROM Victim
 SELECT * FROM Suspect
 
 
+
+
+
+
 --1   All open incident
 
 SELECT * FROM Crime 
 WHERE C_Status = 'Open'
+
+
 
 
 
@@ -86,9 +92,18 @@ SELECT COUNT(IncidentType) [No of Incidents] FROM Crime
 
 
 
+
+
+
+
+
 --3  Unique incidents
 
 SELECT DISTINCT(IncidentType) [Types of Incidents] FROM Crime
+
+
+
+
 
 
 
@@ -98,6 +113,13 @@ SELECT DISTINCT(IncidentType) [Types of Incidents] FROM Crime
 
 SELECT * FROM Crime 
 WHERE IncidentDate BETWEEN '2023-09-01' AND '2023-09-10'
+
+
+
+
+
+
+
 
 
 
@@ -116,6 +138,9 @@ ORDER BY v.Age DESC, s.Age DESC
 
 
 
+
+
+
 --6    average age of persons involved in incidents.
 
 SELECT AVG(v.Age) [Victims Average], AVG(s.Age) [Suspects Average] FROM Victim v
@@ -123,6 +148,10 @@ JOIN Suspect s ON v.CrimeID = s.CrimeID
 JOIN Crime c ON s.CrimeID = c.CrimeID
 
 --i have taken avg for both victim and suspects
+
+
+
+
 
 
 
@@ -137,11 +166,19 @@ HAVING C_Status = 'Open'
 
 
 
+
+
+
+
 --8    Find persons with names containing 'Doe'.
 
 SELECT v.Names FROM Victim v
 JOIN Suspect s ON v.CrimeID = s.CrimeID
 WHERE v.Names LIKE '%Doe%'
+
+
+
+
 
 
 
@@ -155,6 +192,13 @@ WHERE c.C_Status = ('Open') OR c.C_Status = ('Closed')
 
 
 
+
+
+
+
+
+
+
 --10    incident types where there are persons aged 30 or 35 involved.
 
 SELECT c.IncidentType FROM Crime c
@@ -164,9 +208,18 @@ WHERE v.Age IN (30, 35) OR s.Age IN (30, 35)
 
 
 
+
+
+
+
 SELECT * FROM Crime
 SELECT * FROM Victim
 SELECT * FROM Suspect
+
+
+
+
+
 
 --11 persons involved in incidents of the same type as 'Robbery'.
 
@@ -174,6 +227,10 @@ SELECT v.Names[Victims], s.Names[Suspects] FROM Victim v
 JOIN Suspect s ON v.CrimeID = s.CrimeID
 JOIN Crime c ON s.CrimeID = c.CrimeID
 WHERE IncidentType = 'Robbery'
+
+
+
+
 
 
 
@@ -193,6 +250,12 @@ WHERE 1 >
 
 
 
+
+
+
+
+
+
 --13  all incidents with suspects whose names also appear as victims in other incidents.
 SELECT c.IncidentType, s.Names FROM Crime c
 JOIN Suspect s ON c.CrimeID = s.CrimeID
@@ -201,6 +264,11 @@ WHERE s.Names IN (
                  WHERE v.CrimeID <> s.CrimeID)
 
 --No such names exist in both suspect and victm so no output
+
+
+
+
+
 
 
 
@@ -215,13 +283,23 @@ JOIN Crime c ON s.CrimeID = c.CrimeID
 
 
 
+
+
+
+
 --15  incidents where the suspect is older than any victim.
 
 SELECT c.IncidentType FROM Crime c
 JOIN Suspect s ON c.CrimeID = s.CrimeID
---JOIN Victim v ON v.CrimeID = c.CrimeID
 WHERE s.Age > ANY (
                    SELECT Age FROM Victim)
+
+
+
+
+
+
+
 
 
 --16   Find suspects involved in multiple incidents:
@@ -233,6 +311,10 @@ WHERE SuspectID IN (
 				                  HAVING COUNT(CrimeID) > 1) [Count])
 
 -- ruturns no output as there is no suspect in multiple incident
+
+
+
+
 
 
 
@@ -250,11 +332,18 @@ WHERE NOT EXISTS (
 
 
 
+
+
+
+
 --18 List all cases where at least one incident is of type 'Homicide' and all other incidents are of type 'Robbery'.
 
 SELECT TOP 1 * FROM Crime WHERE IncidentType = 'Homicide'
 UNION ALL
 SELECT * FROM Crime WHERE IncidentType = 'Robbery'
+
+
+
 
 
 
@@ -270,7 +359,12 @@ SELECT 'No Suspect' [Suspect Name], c.IncidentType FROM Crime c
 JOIN Suspect s ON c.CrimeID = s.CrimeID
 WHERE s.SuspectID IS NULL
 
---every incident has a suspect so no suspect will not be displayed
+--every incident has a suspect so 'no suspect' will not be displayed but others are
+
+
+
+
+
 
 
 

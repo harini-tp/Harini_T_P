@@ -1,0 +1,72 @@
+Subqueries and corelated sub queries
+----------------------------------------
+
+1. Write a SQL query to find those employees who receive a higher salary than the employee with ID 7566. Return their names
+
+2. Write a SQL query to find out which employees have the same designation as the employee whose ID is 7876. Return name, department no and job .
+
+3. Write a SQL query to find those employees who report to that manager whose name starts with a 'B' or 'C'. Return first name, employee ID and salary
+
+4. Use Northwid database to solve :
+   a) Find products that are more expensive than the average price of products in their own category. Include the category name, product name, and unit price in the result.
+
+   b) For each category, display its name, the number of discontinued products in this category (discontinued), and the number of all products in this category 
+
+
+
+
+
+
+
+SELECT * FROM EMP
+SELECT * FROM DEPT
+
+
+--1
+SELECT empno, ename, sal FROM EMP
+WHERE sal > (
+			SELECT sal FROM EMP 
+			WHERE empno = 7566)
+
+
+--2
+SELECT ename, deptno, job FROM EMP 
+WHERE job = (
+			SELECT job FROM EMP
+			WHERE empno = 7876)
+
+
+--3
+SELECT ename, empno, sal FROM EMP 
+WHERE mgrid IN(
+				SELECT empno FROM EMP t1
+				WHERE ename LIKE '[BC]%')
+
+
+
+SELECT * FROM Products
+
+SELECT * FROM Categories
+
+--Northwind
+--a
+SELECT CategoryName, ProductName, UnitPrice 
+FROM Products P1
+JOIN Categories 
+ON P1.CategoryID = Categories.CategoryID
+WHERE UnitPrice > (SELECT AVG(UnitPrice) FROM Products P2
+					WHERE P2.CategoryID = P1.CategoryID)
+
+
+
+
+--b
+SELECT CategoryName, [Number of Disc. product],[Total no of products] FROM Categories C
+JOIN (
+	SELECT COUNT(ProductName) [Number of Disc. product], CategoryID FROM Products
+	GROUP BY CategoryID) X
+ON C.CategoryID = X.CategoryID 
+JOIN(
+	SELECT COUNT(ProductID) [Total no of products], CategoryID FROM Products
+	GROUP BY CategoryID) Y
+ON C.CategoryID = Y.CategoryID
