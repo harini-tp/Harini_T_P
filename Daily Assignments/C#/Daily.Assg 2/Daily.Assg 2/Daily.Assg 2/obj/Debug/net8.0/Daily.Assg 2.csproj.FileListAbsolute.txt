@@ -1,0 +1,14 @@
+D:\Hexaware\VS codes\Daily.Assg 2\Daily.Assg 2\Daily.Assg 2\bin\Debug\net8.0\Daily.Assg 2.exe
+D:\Hexaware\VS codes\Daily.Assg 2\Daily.Assg 2\Daily.Assg 2\bin\Debug\net8.0\Daily.Assg 2.deps.json
+D:\Hexaware\VS codes\Daily.Assg 2\Daily.Assg 2\Daily.Assg 2\bin\Debug\net8.0\Daily.Assg 2.runtimeconfig.json
+D:\Hexaware\VS codes\Daily.Assg 2\Daily.Assg 2\Daily.Assg 2\bin\Debug\net8.0\Daily.Assg 2.dll
+D:\Hexaware\VS codes\Daily.Assg 2\Daily.Assg 2\Daily.Assg 2\bin\Debug\net8.0\Daily.Assg 2.pdb
+D:\Hexaware\VS codes\Daily.Assg 2\Daily.Assg 2\Daily.Assg 2\obj\Debug\net8.0\Daily.Assg 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hexaware\VS codes\Daily.Assg 2\Daily.Assg 2\Daily.Assg 2\obj\Debug\net8.0\Daily.Assg 2.AssemblyInfoInputs.cache
+D:\Hexaware\VS codes\Daily.Assg 2\Daily.Assg 2\Daily.Assg 2\obj\Debug\net8.0\Daily.Assg 2.AssemblyInfo.cs
+D:\Hexaware\VS codes\Daily.Assg 2\Daily.Assg 2\Daily.Assg 2\obj\Debug\net8.0\Daily.Assg 2.csproj.CoreCompileInputs.cache
+D:\Hexaware\VS codes\Daily.Assg 2\Daily.Assg 2\Daily.Assg 2\obj\Debug\net8.0\Daily.Assg 2.dll
+D:\Hexaware\VS codes\Daily.Assg 2\Daily.Assg 2\Daily.Assg 2\obj\Debug\net8.0\refint\Daily.Assg 2.dll
+D:\Hexaware\VS codes\Daily.Assg 2\Daily.Assg 2\Daily.Assg 2\obj\Debug\net8.0\Daily.Assg 2.pdb
+D:\Hexaware\VS codes\Daily.Assg 2\Daily.Assg 2\Daily.Assg 2\obj\Debug\net8.0\Daily.Assg 2.genruntimeconfig.cache
+D:\Hexaware\VS codes\Daily.Assg 2\Daily.Assg 2\Daily.Assg 2\obj\Debug\net8.0\ref\Daily.Assg 2.dll

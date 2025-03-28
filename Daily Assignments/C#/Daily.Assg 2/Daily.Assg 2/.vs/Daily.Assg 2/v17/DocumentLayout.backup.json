@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hexaware\\VS codes\\Daily.Assg 2\\Daily.Assg 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E35F6B3-171C-4BE3-8C5A-FEDCD1180AE4}|Daily.Assg 2\\Daily.Assg 2.csproj|d:\\hexaware\\vs codes\\daily.assg 2\\daily.assg 2\\daily.assg 2\\startingpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E35F6B3-171C-4BE3-8C5A-FEDCD1180AE4}|Daily.Assg 2\\Daily.Assg 2.csproj|solutionrelative:daily.assg 2\\startingpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E35F6B3-171C-4BE3-8C5A-FEDCD1180AE4}|Daily.Assg 2\\Daily.Assg 2.csproj|d:\\hexaware\\vs codes\\daily.assg 2\\daily.assg 2\\daily.assg 2\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E35F6B3-171C-4BE3-8C5A-FEDCD1180AE4}|Daily.Assg 2\\Daily.Assg 2.csproj|solutionrelative:daily.assg 2\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E35F6B3-171C-4BE3-8C5A-FEDCD1180AE4}|Daily.Assg 2\\Daily.Assg 2.csproj|d:\\hexaware\\vs codes\\daily.assg 2\\daily.assg 2\\daily.assg 2\\daywithnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E35F6B3-171C-4BE3-8C5A-FEDCD1180AE4}|Daily.Assg 2\\Daily.Assg 2.csproj|solutionrelative:daily.assg 2\\daywithnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E35F6B3-171C-4BE3-8C5A-FEDCD1180AE4}|Daily.Assg 2\\Daily.Assg 2.csproj|d:\\hexaware\\vs codes\\daily.assg 2\\daily.assg 2\\daily.assg 2\\swap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E35F6B3-171C-4BE3-8C5A-FEDCD1180AE4}|Daily.Assg 2\\Daily.Assg 2.csproj|solutionrelative:daily.assg 2\\swap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E35F6B3-171C-4BE3-8C5A-FEDCD1180AE4}|Daily.Assg 2\\Daily.Assg 2.csproj|d:\\hexaware\\vs codes\\daily.assg 2\\daily.assg 2\\daily.assg 2\\jaggedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E35F6B3-171C-4BE3-8C5A-FEDCD1180AE4}|Daily.Assg 2\\Daily.Assg 2.csproj|solutionrelative:daily.assg 2\\jaggedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\Daily.Assg 2\\Daily.Assg 2\\Daily.Assg 2\\Arrays.cs",
+              "RelativeDocumentMoniker": "Daily.Assg 2\\Arrays.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\Daily.Assg 2\\Daily.Assg 2\\Daily.Assg 2\\Arrays.cs",
+              "RelativeToolTip": "Daily.Assg 2\\Arrays.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:39:23.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DaywithNumber.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\Daily.Assg 2\\Daily.Assg 2\\Daily.Assg 2\\DaywithNumber.cs",
+              "RelativeDocumentMoniker": "Daily.Assg 2\\DaywithNumber.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\Daily.Assg 2\\Daily.Assg 2\\Daily.Assg 2\\DaywithNumber.cs",
+              "RelativeToolTip": "Daily.Assg 2\\DaywithNumber.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:25:40.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Swap.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\Daily.Assg 2\\Daily.Assg 2\\Daily.Assg 2\\Swap.cs",
+              "RelativeDocumentMoniker": "Daily.Assg 2\\Swap.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\Daily.Assg 2\\Daily.Assg 2\\Daily.Assg 2\\Swap.cs",
+              "RelativeToolTip": "Daily.Assg 2\\Swap.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:12:46.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JaggedArray.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\Daily.Assg 2\\Daily.Assg 2\\Daily.Assg 2\\JaggedArray.cs",
+              "RelativeDocumentMoniker": "Daily.Assg 2\\JaggedArray.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\Daily.Assg 2\\Daily.Assg 2\\Daily.Assg 2\\JaggedArray.cs",
+              "RelativeToolTip": "Daily.Assg 2\\JaggedArray.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:53:41.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartingPoint.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\Daily.Assg 2\\Daily.Assg 2\\Daily.Assg 2\\StartingPoint.cs",
+              "RelativeDocumentMoniker": "Daily.Assg 2\\StartingPoint.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\Daily.Assg 2\\Daily.Assg 2\\Daily.Assg 2\\StartingPoint.cs",
+              "RelativeToolTip": "Daily.Assg 2\\StartingPoint.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T08:56:15.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
