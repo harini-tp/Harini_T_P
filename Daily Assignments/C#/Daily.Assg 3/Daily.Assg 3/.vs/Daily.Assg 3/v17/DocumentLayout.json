@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hexaware\\VS codes\\Daily.Assg 3\\Daily.Assg 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B58C129E-A264-4EED-97FC-1EDEE509EDC6}|Daily.Assg 3\\Daily.Assg 3.csproj|d:\\hexaware\\vs codes\\daily.assg 3\\daily.assg 3\\daily.assg 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58C129E-A264-4EED-97FC-1EDEE509EDC6}|Daily.Assg 3\\Daily.Assg 3.csproj|solutionrelative:daily.assg 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58C129E-A264-4EED-97FC-1EDEE509EDC6}|Daily.Assg 3\\Daily.Assg 3.csproj|d:\\hexaware\\vs codes\\daily.assg 3\\daily.assg 3\\daily.assg 3\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58C129E-A264-4EED-97FC-1EDEE509EDC6}|Daily.Assg 3\\Daily.Assg 3.csproj|solutionrelative:daily.assg 3\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58C129E-A264-4EED-97FC-1EDEE509EDC6}|Daily.Assg 3\\Daily.Assg 3.csproj|d:\\hexaware\\vs codes\\daily.assg 3\\daily.assg 3\\daily.assg 3\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58C129E-A264-4EED-97FC-1EDEE509EDC6}|Daily.Assg 3\\Daily.Assg 3.csproj|solutionrelative:daily.assg 3\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B58C129E-A264-4EED-97FC-1EDEE509EDC6}|Daily.Assg 3\\Daily.Assg 3.csproj|d:\\hexaware\\vs codes\\daily.assg 3\\daily.assg 3\\daily.assg 3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B58C129E-A264-4EED-97FC-1EDEE509EDC6}|Daily.Assg 3\\Daily.Assg 3.csproj|solutionrelative:daily.assg 3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\Daily.Assg 3\\Daily.Assg 3\\Daily.Assg 3\\Counter.cs",
+              "RelativeDocumentMoniker": "Daily.Assg 3\\Counter.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\Daily.Assg 3\\Daily.Assg 3\\Daily.Assg 3\\Counter.cs",
+              "RelativeToolTip": "Daily.Assg 3\\Counter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:50:36.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\Daily.Assg 3\\Daily.Assg 3\\Daily.Assg 3\\Manager.cs",
+              "RelativeDocumentMoniker": "Daily.Assg 3\\Manager.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\Daily.Assg 3\\Daily.Assg 3\\Daily.Assg 3\\Manager.cs",
+              "RelativeToolTip": "Daily.Assg 3\\Manager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:09:38.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\Daily.Assg 3\\Daily.Assg 3\\Daily.Assg 3\\Employee.cs",
+              "RelativeDocumentMoniker": "Daily.Assg 3\\Employee.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\Daily.Assg 3\\Daily.Assg 3\\Daily.Assg 3\\Employee.cs",
+              "RelativeToolTip": "Daily.Assg 3\\Employee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:01:26.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\Daily.Assg 3\\Daily.Assg 3\\Daily.Assg 3\\Program.cs",
+              "RelativeDocumentMoniker": "Daily.Assg 3\\Program.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\Daily.Assg 3\\Daily.Assg 3\\Daily.Assg 3\\Program.cs",
+              "RelativeToolTip": "Daily.Assg 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:00:45.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
