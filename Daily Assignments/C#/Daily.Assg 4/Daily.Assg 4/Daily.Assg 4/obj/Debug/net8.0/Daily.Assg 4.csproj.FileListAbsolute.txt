@@ -1,0 +1,14 @@
+D:\Hexaware\VS codes\Daily.Assg 4\Daily.Assg 4\Daily.Assg 4\bin\Debug\net8.0\Daily.Assg 4.exe
+D:\Hexaware\VS codes\Daily.Assg 4\Daily.Assg 4\Daily.Assg 4\bin\Debug\net8.0\Daily.Assg 4.deps.json
+D:\Hexaware\VS codes\Daily.Assg 4\Daily.Assg 4\Daily.Assg 4\bin\Debug\net8.0\Daily.Assg 4.runtimeconfig.json
+D:\Hexaware\VS codes\Daily.Assg 4\Daily.Assg 4\Daily.Assg 4\bin\Debug\net8.0\Daily.Assg 4.dll
+D:\Hexaware\VS codes\Daily.Assg 4\Daily.Assg 4\Daily.Assg 4\bin\Debug\net8.0\Daily.Assg 4.pdb
+D:\Hexaware\VS codes\Daily.Assg 4\Daily.Assg 4\Daily.Assg 4\obj\Debug\net8.0\Daily.Assg 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hexaware\VS codes\Daily.Assg 4\Daily.Assg 4\Daily.Assg 4\obj\Debug\net8.0\Daily.Assg 4.AssemblyInfoInputs.cache
+D:\Hexaware\VS codes\Daily.Assg 4\Daily.Assg 4\Daily.Assg 4\obj\Debug\net8.0\Daily.Assg 4.AssemblyInfo.cs
+D:\Hexaware\VS codes\Daily.Assg 4\Daily.Assg 4\Daily.Assg 4\obj\Debug\net8.0\Daily.Assg 4.csproj.CoreCompileInputs.cache
+D:\Hexaware\VS codes\Daily.Assg 4\Daily.Assg 4\Daily.Assg 4\obj\Debug\net8.0\Daily.Assg 4.dll
+D:\Hexaware\VS codes\Daily.Assg 4\Daily.Assg 4\Daily.Assg 4\obj\Debug\net8.0\refint\Daily.Assg 4.dll
+D:\Hexaware\VS codes\Daily.Assg 4\Daily.Assg 4\Daily.Assg 4\obj\Debug\net8.0\Daily.Assg 4.pdb
+D:\Hexaware\VS codes\Daily.Assg 4\Daily.Assg 4\Daily.Assg 4\obj\Debug\net8.0\Daily.Assg 4.genruntimeconfig.cache
+D:\Hexaware\VS codes\Daily.Assg 4\Daily.Assg 4\Daily.Assg 4\obj\Debug\net8.0\ref\Daily.Assg 4.dll

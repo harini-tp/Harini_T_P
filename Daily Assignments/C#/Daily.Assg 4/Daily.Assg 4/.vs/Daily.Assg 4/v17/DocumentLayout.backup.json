@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hexaware\\VS codes\\Daily.Assg 4\\Daily.Assg 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{564CF699-7AFD-460A-AFE4-30BB21A3F226}|Daily.Assg 4\\Daily.Assg 4.csproj|d:\\hexaware\\vs codes\\daily.assg 4\\daily.assg 4\\daily.assg 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564CF699-7AFD-460A-AFE4-30BB21A3F226}|Daily.Assg 4\\Daily.Assg 4.csproj|solutionrelative:daily.assg 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564CF699-7AFD-460A-AFE4-30BB21A3F226}|Daily.Assg 4\\Daily.Assg 4.csproj|d:\\hexaware\\vs codes\\daily.assg 4\\daily.assg 4\\daily.assg 4\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564CF699-7AFD-460A-AFE4-30BB21A3F226}|Daily.Assg 4\\Daily.Assg 4.csproj|solutionrelative:daily.assg 4\\furniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{564CF699-7AFD-460A-AFE4-30BB21A3F226}|Daily.Assg 4\\Daily.Assg 4.csproj|d:\\hexaware\\vs codes\\daily.assg 4\\daily.assg 4\\daily.assg 4\\seconds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{564CF699-7AFD-460A-AFE4-30BB21A3F226}|Daily.Assg 4\\Daily.Assg 4.csproj|solutionrelative:daily.assg 4\\seconds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Furniture.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4\\Furniture.cs",
+              "RelativeDocumentMoniker": "Daily.Assg 4\\Furniture.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4\\Furniture.cs",
+              "RelativeToolTip": "Daily.Assg 4\\Furniture.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCAAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T23:47:05.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Seconds.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4\\Seconds.cs",
+              "RelativeDocumentMoniker": "Daily.Assg 4\\Seconds.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4\\Seconds.cs",
+              "RelativeToolTip": "Daily.Assg 4\\Seconds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:05:18.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4\\Program.cs",
+              "RelativeDocumentMoniker": "Daily.Assg 4\\Program.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4\\Program.cs",
+              "RelativeToolTip": "Daily.Assg 4\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:04:43.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
