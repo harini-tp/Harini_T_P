@@ -83,7 +83,7 @@
             }
             catch (FormatException)
             {
-                Console.WriteLine("Invalid input! Please enter a numeric value.");
+                Console.WriteLine("Invalid input, Please enter a numeric value.");
             }
 
             Console.WriteLine("------------------------------------------------------\n\n");

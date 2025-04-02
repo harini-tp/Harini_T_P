@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Hexaware\\VS codes\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4.csproj",
+      "projectUniqueName": "D:\\Hexaware\\C#\\Daily Assignments\\C#\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4.csproj",
       "projectName": "Daily.Assg 4",
-      "projectPath": "D:\\Hexaware\\VS codes\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4.csproj",
+      "projectPath": "D:\\Hexaware\\C#\\Daily Assignments\\C#\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4.csproj",
       "packagesPath": "C:\\Users\\harin\\.nuget\\packages\\",
-      "outputPath": "D:\\Hexaware\\VS codes\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4\\obj\\",
+      "outputPath": "D:\\Hexaware\\C#\\Daily Assignments\\C#\\Daily.Assg 4\\Daily.Assg 4\\Daily.Assg 4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

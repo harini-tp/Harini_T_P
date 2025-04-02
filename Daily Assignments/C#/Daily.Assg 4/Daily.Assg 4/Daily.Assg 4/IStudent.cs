@@ -10,7 +10,7 @@ namespace Daily.Assg_4
     {
         int StudentId { get; set; }
         string Name { get; set; }
-        double Fees { get; set; }
+        int Fees { get; set; }
         void ShowDetails();
     }
 
