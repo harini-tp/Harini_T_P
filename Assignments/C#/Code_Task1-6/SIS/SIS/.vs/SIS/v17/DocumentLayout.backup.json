@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hexaware\\VS codes\\SIS\\SIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|d:\\hexaware\\vs codes\\sis\\sis\\sis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|solutionrelative:sis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|d:\\hexaware\\vs codes\\sis\\sis\\sis\\classes\\sis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|solutionrelative:sis\\classes\\sis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|d:\\hexaware\\vs codes\\sis\\sis\\sis\\classes\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|solutionrelative:sis\\classes\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|d:\\hexaware\\vs codes\\sis\\sis\\sis\\classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|solutionrelative:sis\\classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|d:\\hexaware\\vs codes\\sis\\sis\\sis\\task\\task_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|solutionrelative:sis\\task\\task_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|d:\\hexaware\\vs codes\\sis\\sis\\sis\\task\\task_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|solutionrelative:sis\\task\\task_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|d:\\hexaware\\vs codes\\sis\\sis\\sis\\classes\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|solutionrelative:sis\\classes\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|d:\\hexaware\\vs codes\\sis\\sis\\sis\\classes\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|solutionrelative:sis\\classes\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|d:\\hexaware\\vs codes\\sis\\sis\\sis\\classes\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|solutionrelative:sis\\classes\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|d:\\hexaware\\vs codes\\sis\\sis\\sis\\coustomexceptions\\checking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|solutionrelative:sis\\coustomexceptions\\checking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|d:\\hexaware\\vs codes\\sis\\sis\\sis\\coustomexceptions\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863C49EC-CAD2-4F08-8450-AA591BE11B36}|SIS\\SIS.csproj|solutionrelative:sis\\coustomexceptions\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sis.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Classes\\Sis.cs",
+              "RelativeDocumentMoniker": "SIS\\Classes\\Sis.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Classes\\Sis.cs",
+              "RelativeToolTip": "SIS\\Classes\\Sis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T15:13:06.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Classes\\Student.cs",
+              "RelativeDocumentMoniker": "SIS\\Classes\\Student.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Classes\\Student.cs",
+              "RelativeToolTip": "SIS\\Classes\\Student.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwIEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:26:25.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Classes\\Course.cs",
+              "RelativeDocumentMoniker": "SIS\\Classes\\Course.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Classes\\Course.cs",
+              "RelativeToolTip": "SIS\\Classes\\Course.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:26:41.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task_4.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Task\\Task_4.cs",
+              "RelativeDocumentMoniker": "SIS\\Task\\Task_4.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Task\\Task_4.cs",
+              "RelativeToolTip": "SIS\\Task\\Task_4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T11:23:42.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Classes\\Payment.cs",
+              "RelativeDocumentMoniker": "SIS\\Classes\\Payment.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Classes\\Payment.cs",
+              "RelativeToolTip": "SIS\\Classes\\Payment.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:38:53.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Classes\\Teacher.cs",
+              "RelativeDocumentMoniker": "SIS\\Classes\\Teacher.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Classes\\Teacher.cs",
+              "RelativeToolTip": "SIS\\Classes\\Teacher.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:37:47.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Classes\\Enrollment.cs",
+              "RelativeDocumentMoniker": "SIS\\Classes\\Enrollment.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Classes\\Enrollment.cs",
+              "RelativeToolTip": "SIS\\Classes\\Enrollment.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvysAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:34:44.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Program.cs",
+              "RelativeDocumentMoniker": "SIS\\Program.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Program.cs*",
+              "RelativeToolTip": "SIS\\Program.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:00:31.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task_3.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Task\\Task_3.cs",
+              "RelativeDocumentMoniker": "SIS\\Task\\Task_3.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\Task\\Task_3.cs",
+              "RelativeToolTip": "SIS\\Task\\Task_3.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T23:20:06.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\CoustomExceptions\\Exceptions.cs",
+              "RelativeDocumentMoniker": "SIS\\CoustomExceptions\\Exceptions.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\CoustomExceptions\\Exceptions.cs",
+              "RelativeToolTip": "SIS\\CoustomExceptions\\Exceptions.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T06:27:43.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Checking.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\CoustomExceptions\\Checking.cs",
+              "RelativeDocumentMoniker": "SIS\\CoustomExceptions\\Checking.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\SIS\\SIS\\SIS\\CoustomExceptions\\Checking.cs",
+              "RelativeToolTip": "SIS\\CoustomExceptions\\Checking.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:25:02.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

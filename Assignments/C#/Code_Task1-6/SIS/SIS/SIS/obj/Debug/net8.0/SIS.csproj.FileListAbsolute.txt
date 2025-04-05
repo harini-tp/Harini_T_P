@@ -1,0 +1,14 @@
+D:\Hexaware\VS codes\SIS\SIS\SIS\bin\Debug\net8.0\SIS.exe
+D:\Hexaware\VS codes\SIS\SIS\SIS\bin\Debug\net8.0\SIS.deps.json
+D:\Hexaware\VS codes\SIS\SIS\SIS\bin\Debug\net8.0\SIS.runtimeconfig.json
+D:\Hexaware\VS codes\SIS\SIS\SIS\bin\Debug\net8.0\SIS.dll
+D:\Hexaware\VS codes\SIS\SIS\SIS\bin\Debug\net8.0\SIS.pdb
+D:\Hexaware\VS codes\SIS\SIS\SIS\obj\Debug\net8.0\SIS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hexaware\VS codes\SIS\SIS\SIS\obj\Debug\net8.0\SIS.AssemblyInfoInputs.cache
+D:\Hexaware\VS codes\SIS\SIS\SIS\obj\Debug\net8.0\SIS.AssemblyInfo.cs
+D:\Hexaware\VS codes\SIS\SIS\SIS\obj\Debug\net8.0\SIS.csproj.CoreCompileInputs.cache
+D:\Hexaware\VS codes\SIS\SIS\SIS\obj\Debug\net8.0\SIS.dll
+D:\Hexaware\VS codes\SIS\SIS\SIS\obj\Debug\net8.0\refint\SIS.dll
+D:\Hexaware\VS codes\SIS\SIS\SIS\obj\Debug\net8.0\SIS.pdb
+D:\Hexaware\VS codes\SIS\SIS\SIS\obj\Debug\net8.0\SIS.genruntimeconfig.cache
+D:\Hexaware\VS codes\SIS\SIS\SIS\obj\Debug\net8.0\ref\SIS.dll
