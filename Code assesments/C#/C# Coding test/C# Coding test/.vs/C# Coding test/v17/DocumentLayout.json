@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|d:\\hexaware\\c#\\code assesments\\c#\\c# coding test\\c# coding test\\c# coding test\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|solutionrelative:c# coding test\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|d:\\hexaware\\c#\\code assesments\\c#\\c# coding test\\c# coding test\\c# coding test\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|solutionrelative:c# coding test\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|d:\\hexaware\\c#\\code assesments\\c#\\c# coding test\\c# coding test\\c# coding test\\util\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|solutionrelative:c# coding test\\util\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|d:\\hexaware\\c#\\code assesments\\c#\\c# coding test\\c# coding test\\c# coding test\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|solutionrelative:c# coding test\\electronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|d:\\hexaware\\c#\\code assesments\\c#\\c# coding test\\c# coding test\\c# coding test\\dao\\iordermanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|solutionrelative:c# coding test\\dao\\iordermanagementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|d:\\hexaware\\c#\\code assesments\\c#\\c# coding test\\c# coding test\\c# coding test\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|solutionrelative:c# coding test\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|d:\\hexaware\\c#\\code assesments\\c#\\c# coding test\\c# coding test\\c# coding test\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|solutionrelative:c# coding test\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|d:\\hexaware\\c#\\code assesments\\c#\\c# coding test\\c# coding test\\c# coding test\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2274ACBD-E6AD-424F-99E2-7063247561AC}|C# Coding test\\C# Coding test.csproj|solutionrelative:c# coding test\\clothing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Query.cs",
+              "DocumentMoniker": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\Query.cs",
+              "RelativeDocumentMoniker": "C# Coding test\\Query.cs",
+              "ToolTip": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\Query.cs*",
+              "RelativeToolTip": "C# Coding test\\Query.cs*",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAmwGoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:42:56.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\util\\DBUtil.cs",
+              "RelativeDocumentMoniker": "C# Coding test\\util\\DBUtil.cs",
+              "ToolTip": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\util\\DBUtil.cs",
+              "RelativeToolTip": "C# Coding test\\util\\DBUtil.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:32:58.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderManagement.cs",
+              "DocumentMoniker": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\OrderManagement.cs",
+              "RelativeDocumentMoniker": "C# Coding test\\OrderManagement.cs",
+              "ToolTip": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\OrderManagement.cs",
+              "RelativeToolTip": "C# Coding test\\OrderManagement.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:01:43.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Electronics.cs",
+              "DocumentMoniker": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\Electronics.cs",
+              "RelativeDocumentMoniker": "C# Coding test\\Electronics.cs",
+              "ToolTip": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\Electronics.cs",
+              "RelativeToolTip": "C# Coding test\\Electronics.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:09:32.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderManagementRepository.cs",
+              "DocumentMoniker": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\dao\\IOrderManagementRepository.cs",
+              "RelativeDocumentMoniker": "C# Coding test\\dao\\IOrderManagementRepository.cs",
+              "ToolTip": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\dao\\IOrderManagementRepository.cs",
+              "RelativeToolTip": "C# Coding test\\dao\\IOrderManagementRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:24:00.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\User.cs",
+              "RelativeDocumentMoniker": "C# Coding test\\User.cs",
+              "ToolTip": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\User.cs",
+              "RelativeToolTip": "C# Coding test\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:18:54.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\Product.cs",
+              "RelativeDocumentMoniker": "C# Coding test\\Product.cs",
+              "ToolTip": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\Product.cs",
+              "RelativeToolTip": "C# Coding test\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:04:13.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clothing.cs",
+              "DocumentMoniker": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\Clothing.cs",
+              "RelativeDocumentMoniker": "C# Coding test\\Clothing.cs",
+              "ToolTip": "D:\\Hexaware\\C#\\Code assesments\\C#\\C# Coding test\\C# Coding test\\C# Coding test\\Clothing.cs",
+              "RelativeToolTip": "C# Coding test\\Clothing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:15:44.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\bin\Debug\net8.0\C# Coding test.exe
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\bin\Debug\net8.0\C# Coding test.deps.json
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\bin\Debug\net8.0\C# Coding test.runtimeconfig.json
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\bin\Debug\net8.0\C# Coding test.dll
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\bin\Debug\net8.0\C# Coding test.pdb
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\obj\Debug\net8.0\C# Coding test.csproj.AssemblyReference.cache
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\obj\Debug\net8.0\C# Coding test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\obj\Debug\net8.0\C# Coding test.AssemblyInfoInputs.cache
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\obj\Debug\net8.0\C# Coding test.AssemblyInfo.cs
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\obj\Debug\net8.0\C# Coding test.csproj.CoreCompileInputs.cache
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\obj\Debug\net8.0\C# Coding test.sourcelink.json
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\obj\Debug\net8.0\C# Codin.5E04AAC4.Up2Date
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\obj\Debug\net8.0\C# Coding test.dll
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\obj\Debug\net8.0\refint\C# Coding test.dll
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\obj\Debug\net8.0\C# Coding test.pdb
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\obj\Debug\net8.0\C# Coding test.genruntimeconfig.cache
+D:\Hexaware\Testing\Code assesments\C#\C# Coding test\C# Coding test\C# Coding test\obj\Debug\net8.0\ref\C# Coding test.dll
