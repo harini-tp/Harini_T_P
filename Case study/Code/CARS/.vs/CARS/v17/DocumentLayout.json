@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hexaware\\VS codes\\CARS\\CARS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|d:\\hexaware\\vs codes\\cars\\cars\\cars\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|solutionrelative:cars\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|d:\\hexaware\\vs codes\\cars\\cars\\cars\\exception\\myexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|solutionrelative:cars\\exception\\myexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|d:\\hexaware\\vs codes\\cars\\cars\\cars\\dao\\crimeanalysisserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|solutionrelative:cars\\dao\\crimeanalysisserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|d:\\hexaware\\vs codes\\cars\\cars\\cars\\dao\\icrimeanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|solutionrelative:cars\\dao\\icrimeanalysisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|d:\\hexaware\\vs codes\\cars\\cars\\cars\\entity\\incidents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|solutionrelative:cars\\entity\\incidents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|d:\\hexaware\\vs codes\\cars\\cars\\cars\\entity\\cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|solutionrelative:cars\\entity\\cases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|d:\\hexaware\\vs codes\\cars\\cars\\cars\\entity\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|solutionrelative:cars\\entity\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|d:\\hexaware\\vs codes\\cars\\cars\\cars\\entity\\victims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|solutionrelative:cars\\entity\\victims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|d:\\hexaware\\vs codes\\cars\\cars\\cars\\util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|solutionrelative:cars\\util\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|d:\\hexaware\\vs codes\\cars\\cars\\cars\\entity\\suspects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|solutionrelative:cars\\entity\\suspects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|d:\\hexaware\\vs codes\\cars\\cars\\cars\\entity\\officers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|solutionrelative:cars\\entity\\officers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|d:\\hexaware\\vs codes\\cars\\cars\\cars\\entity\\lawenforcementagencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|solutionrelative:cars\\entity\\lawenforcementagencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|d:\\hexaware\\vs codes\\cars\\cars\\cars\\entity\\evidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F293135-DD5B-4BD9-9C6E-2B5104499113}|CARS\\CARS.csproj|solutionrelative:cars\\entity\\evidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "myexceptions.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\exception\\myexceptions.cs",
+              "RelativeDocumentMoniker": "CARS\\exception\\myexceptions.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\exception\\myexceptions.cs",
+              "RelativeToolTip": "CARS\\exception\\myexceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:16:06.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\main\\Program.cs",
+              "RelativeDocumentMoniker": "CARS\\main\\Program.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\main\\Program.cs",
+              "RelativeToolTip": "CARS\\main\\Program.cs",
+              "ViewState": "AgIAACkBAAAAAAAAAAAAwDwBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:34:56.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrimeAnalysisServiceImpl.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\dao\\CrimeAnalysisServiceImpl.cs",
+              "RelativeDocumentMoniker": "CARS\\dao\\CrimeAnalysisServiceImpl.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\dao\\CrimeAnalysisServiceImpl.cs",
+              "RelativeToolTip": "CARS\\dao\\CrimeAnalysisServiceImpl.cs",
+              "ViewState": "AgIAAKoBAAAAAAAAAAAuwLUBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T00:06:55.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Incidents.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\Incidents.cs",
+              "RelativeDocumentMoniker": "CARS\\entity\\Incidents.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\Incidents.cs",
+              "RelativeToolTip": "CARS\\entity\\Incidents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:27:29.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cases.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\Cases.cs",
+              "RelativeDocumentMoniker": "CARS\\entity\\Cases.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\Cases.cs",
+              "RelativeToolTip": "CARS\\entity\\Cases.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T22:56:44.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICrimeAnalysisService.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\dao\\ICrimeAnalysisService.cs",
+              "RelativeDocumentMoniker": "CARS\\dao\\ICrimeAnalysisService.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\dao\\ICrimeAnalysisService.cs",
+              "RelativeToolTip": "CARS\\dao\\ICrimeAnalysisService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:55:02.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\util\\DBConnection.cs",
+              "RelativeDocumentMoniker": "CARS\\util\\DBConnection.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\util\\DBConnection.cs",
+              "RelativeToolTip": "CARS\\util\\DBConnection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T22:39:11.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\Reports.cs",
+              "RelativeDocumentMoniker": "CARS\\entity\\Reports.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\Reports.cs",
+              "RelativeToolTip": "CARS\\entity\\Reports.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:30:30.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Victims.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\Victims.cs",
+              "RelativeDocumentMoniker": "CARS\\entity\\Victims.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\Victims.cs",
+              "RelativeToolTip": "CARS\\entity\\Victims.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA/wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:27:54.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Suspects.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\Suspects.cs",
+              "RelativeDocumentMoniker": "CARS\\entity\\Suspects.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\Suspects.cs",
+              "RelativeToolTip": "CARS\\entity\\Suspects.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:28:10.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Officers.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\Officers.cs",
+              "RelativeDocumentMoniker": "CARS\\entity\\Officers.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\Officers.cs",
+              "RelativeToolTip": "CARS\\entity\\Officers.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:29:37.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LawEnforcementAgencies.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\LawEnforcementAgencies.cs",
+              "RelativeDocumentMoniker": "CARS\\entity\\LawEnforcementAgencies.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\LawEnforcementAgencies.cs",
+              "RelativeToolTip": "CARS\\entity\\LawEnforcementAgencies.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:29:07.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Evidence.cs",
+              "DocumentMoniker": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\Evidence.cs",
+              "RelativeDocumentMoniker": "CARS\\entity\\Evidence.cs",
+              "ToolTip": "D:\\Hexaware\\VS codes\\CARS\\CARS\\CARS\\entity\\Evidence.cs",
+              "RelativeToolTip": "CARS\\entity\\Evidence.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:30:11.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
